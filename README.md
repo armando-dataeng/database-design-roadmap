@@ -20,12 +20,13 @@ Ruta completa para aprender diseño de bases de datos desde nivel principiante h
 
 ## Fundamentos
 
-- [ ] DATABASE_FUNDAMENTALS
-- [ ] ENTITIES_AND_ATTRIBUTES
-- [ ] PRIMARY_KEYS
-- [ ] FOREIGN_KEYS
-- [ ] CARDINALITY
-- [ ] ER_DIAGRAMS
+- [x] DATABASE_FUNDAMENTALS
+- [x] DATABASE_DESIGN_LIFECYCLE
+- [x] ENTITIES_AND_ATTRIBUTES
+- [x] PRIMARY_KEYS
+- [x] FOREIGN_KEYS
+- [x] CARDINALITY
+- [x] ER_DIAGRAMS
 
 ## Diseño Relacional
 
@@ -35,10 +36,15 @@ Ruta completa para aprender diseño de bases de datos desde nivel principiante h
   - [ ] 3NF
   - [ ] BCNF
   - [ ] NORMALIZATION_CASE_STUDY
-
+        
 - [ ] DENORMALIZATION
 
-## Diseño Empresarial
+## Arquitectura de Datos
+
+☐ OLTP_DESIGN
+☐ OLAP_DESIGN
+☐ STAR_SCHEMA
+☐ SNOWFLAKE_SCHEMA
 
 - [ ] OLTP_DESIGN
 - [ ] OLAP_DESIGN
